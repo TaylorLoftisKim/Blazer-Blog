@@ -1,4 +1,4 @@
-# _History of Dirt, a boring lecture_
+# _Badass Blazer Blog_
 
 #### _Epicodus exercise to practice HTML and CSS Styling, October 12 2016_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_Website about a boring lecture in Latin._
+_Website about a Badass Blazer Blog._
 
 ## Setup/Installation Requirements
 
