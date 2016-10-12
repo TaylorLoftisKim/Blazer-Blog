@@ -3,11 +3,18 @@ h1 {
   font-weight: bolder;
   font-family: monospace;
 }
+h2 {
+  text-align: center;
+}
 .players {
   font-style: bold;
   text-align: center;
   font-family: fantasy;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
 .blog {
   font-weight: normal;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
